@@ -27,3 +27,5 @@
 ###
 .mvn
 .idea
+mvnw
+mvnw.cmd
